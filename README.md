@@ -20,8 +20,9 @@ Como cientista de dados tenho experiência com análises estatísticas e explora
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* *Analisando dados do Airbnb - San Francisco(Califórnia):** https://bit.ly/38WF7mx
+
+
 
 
 ---
