@@ -20,7 +20,7 @@ Como cientista de dados tenho experiência com análises estatísticas e explora
 
 ## Projetos:
 
-* *Analisando dados do Airbnb - San Francisco(Califórnia):** https://bit.ly/38WF7mx
+**Analisando dados do Airbnb - San Francisco(Califórnia):** https://bit.ly/38WF7mx
 
 
 
