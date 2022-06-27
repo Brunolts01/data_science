@@ -8,7 +8,7 @@
 # Bruno Venancio
 <sub>*Cientista de Dados*</sub>
 
-Como cientista de dados tenho experiência com análises estatísticas e exploratórias de dados, afim de extrair os melhores insights para resultados na área de negócio. Tenho facilidade em trabalhar em ambientes dinâmicos e entender os principais problemas da empresa.
+Como cientista de dados tenho experiência com análise estatística e exploratória de dados, afim de extrair os melhores insights para resultados na área de negócio. Tenho facilidade em trabalhar em ambientes dinâmicos e entender os principais problemas da empresa.
  
 
 **Experiência em:** Python, Machine Learning, SQL e BI.
