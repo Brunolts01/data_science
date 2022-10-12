@@ -22,9 +22,9 @@ Como cientista de dados tenho experiência com análise estatística e explorat�
 
 **Analisando dados do Airbnb - San Francisco(Califórnia):** https://bit.ly/38WF7mx
  
-**Panorama do Covid-19 Brasi:** https://bit.ly/38WF7mx
+**Panorama do Covid-19 Brasil:** https://bit.ly/38WF7mx
  
-**Detecção de Fraude Em Cartoes de Crédito:** https://bit.ly/38WF7mx
+**Detecção de Fraude em Cartoes de Crédito:** https://bit.ly/38WF7mx
 
 ---
 
