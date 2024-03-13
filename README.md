@@ -27,6 +27,7 @@ Como cientista de dados tenho experiência com análise estatística e explorat�
 **Detecção de Fraude em Cartões de Crédito:** https://bit.ly/3CUjO1D
 
 **Churn Prediction:** https://bit.ly/48SAfYP
+
 ---
 
 
